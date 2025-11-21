@@ -1,3 +1,3 @@
 # ABTCustomLibrary
 
-My custom library for ABT
+Custom library for ABT
